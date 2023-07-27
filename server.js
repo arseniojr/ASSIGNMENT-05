@@ -1,3 +1,18 @@
+/*********************************************************************************
+* WEB700 – Assignment 04
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part 
+* of this assignment has been copied manually or electronically from any other source 
+* (including 3rd party web sites) or distributed to other students.
+* 
+* Name: ARSENIO JR ROMRRO  Student ID: 149873218  Date: JULY 27, 2023
+*
+* Online (Cyclic) Link: ________________________________________________________
+*
+********************************************************************************/
+
+
+
+
 const collegeDataModule = require('./modules/collegeData');
 var HTTP_PORT = process.env.PORT || 8080;
 var express = require('express');
